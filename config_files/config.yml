@@ -15,7 +15,7 @@ pathf: "../data/"
 # The niceness of the processes, useful to lower their priority
 nice: 0
 # The random state of the benchmark, useful for reproducibility
-random_state: 42
+random_state: 94
 # The number of parallel computing threads
 nb_cores: 1
 # Used to run the benchmark on the full dataset
